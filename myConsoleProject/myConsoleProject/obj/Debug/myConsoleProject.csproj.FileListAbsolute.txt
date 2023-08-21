@@ -1,0 +1,7 @@
+C:\Users\gantony\Desktop\Babeena Projects Canada\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.exe.config
+C:\Users\gantony\Desktop\Babeena Projects Canada\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.exe
+C:\Users\gantony\Desktop\Babeena Projects Canada\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.pdb
+C:\Users\gantony\Desktop\Babeena Projects Canada\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.csproj.AssemblyReference.cache
+C:\Users\gantony\Desktop\Babeena Projects Canada\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\gantony\Desktop\Babeena Projects Canada\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.exe
+C:\Users\gantony\Desktop\Babeena Projects Canada\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.pdb

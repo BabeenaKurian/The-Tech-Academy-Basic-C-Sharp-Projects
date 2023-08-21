@@ -1,0 +1,6 @@
+C:\Users\gantony\Desktop\Babeena Projects Canada\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Release\myConsoleProject.exe.config
+C:\Users\gantony\Desktop\Babeena Projects Canada\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Release\myConsoleProject.exe
+C:\Users\gantony\Desktop\Babeena Projects Canada\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\bin\Release\myConsoleProject.pdb
+C:\Users\gantony\Desktop\Babeena Projects Canada\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Release\myConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\gantony\Desktop\Babeena Projects Canada\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Release\myConsoleProject.exe
+C:\Users\gantony\Desktop\Babeena Projects Canada\The-Tech-Academy-Basic-C-Sharp-Projects\myConsoleProject\myConsoleProject\obj\Release\myConsoleProject.pdb
