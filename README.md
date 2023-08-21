@@ -1,3 +1,3 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects
 
-story contins c-sharp project develiped during C# and .NET framework course
+This Repository contins c-sharp project developed during C# and .NET framework course
